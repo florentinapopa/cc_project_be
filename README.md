@@ -107,3 +107,6 @@ Exemplu de response:
     ]
 }
 
+5. Demo
+# Video: https://youtu.be/HoUFcZwMYbw 
+# Aplicația a fost deployată folosind HEROKU și poate fi accesată la adresa: https://stormy-temple-07179.herokuapp.com/
